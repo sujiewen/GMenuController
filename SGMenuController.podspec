@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "GMenuController"
-  s.version      = "0.0.5"
+  s.name         = "SGMenuController"
+  s.version      = "0.0.6.1"
   s.summary      = "A MenuView similar to UIMenuController. With a more flexible use of the way. Can customize the appearance."
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/GIKICoder/GMenuController.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/sujiewen/GMenuController.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

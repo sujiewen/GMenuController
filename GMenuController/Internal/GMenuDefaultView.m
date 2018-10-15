@@ -155,7 +155,7 @@ static inline BOOL GMenuHasContainingInRange(CGFloat index,NSRange range) {
                 realH = (double)(_arrowSize.height/(_arrowSize.width*0.5))*(_arrowSize.width*0.5 - (x-midX));
             }
             CGRect rect = line.frame;
-            rect.size.height += realH;
+//            rect.size.height += realH;
             if (direction == GMenuControllerArrowDown) {
                 rect.origin.y -= realH;
             }
