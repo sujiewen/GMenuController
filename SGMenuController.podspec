@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SGMenuController"
-  s.version      = "0.0.6.1"
+  s.version      = "0.0.6.2"
   s.summary      = "A MenuView similar to UIMenuController. With a more flexible use of the way. Can customize the appearance."
 
   # This description is used to generate tags and improve search results.
